@@ -9,10 +9,10 @@ export const Header = () => {
   const navigate = useNavigate()
 
   useEffect(()=> {
-    {/* write  in local storage darkmode true or false  */}
+    /* write  in local storage darkmode true or false  */
     localStorage.setItem('darkMode', JSON.stringify(darkMode))
     if(darkMode){
-      {/* add class dark into main   */}
+      /* add class dark into main   */
       document.documentElement.classList.add('dark')
     }else {
       document.documentElement.classList.remove('dark')

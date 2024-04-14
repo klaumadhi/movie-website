@@ -18,13 +18,13 @@ export const Footer = () => {
                     <a href="https://www.instagram.com/klaumadhi/" rel="noreferrer" target="_blank" className="hover:underline me-4 md:me-6">Instagram</a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/klaurent-madhi-9b8607233/" target="_blank" className="hover:underline me-4 md:me-6">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/klaurent-madhi-9b8607233/" rel="noreferrer" target="_blank" className="hover:underline me-4 md:me-6">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="#" target="_blank" className="hover:underline me-4 md:me-6">Youtube</a>
+                    <a href="https://www.linkedin.com/in/klaurent-madhi-9b8607233/" target="_blank" className="hover:underline me-4 md:me-6">Youtube</a>
                 </li>
                 <li>
-                    <a href="#" target="_blank" className="hover:underline">GitHub</a>
+                    <a href="https://www.linkedin.com/in/klaurent-madhi-9b8607233/" target="_blank" className="hover:underline">GitHub</a>
                 </li>
             </ul>
         </div>
