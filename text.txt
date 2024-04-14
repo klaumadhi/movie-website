@@ -1,0 +1,1 @@
+https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=&api_key=7820ed981c7124aad86bc3c8a7c7b8a4
