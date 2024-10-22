@@ -1,13 +1,9 @@
-import { useEffect } from "react"
+import { useEffect } from "react";
 
 export const useTitle = (title) => {
-    useEffect(() => {
+  useEffect(() => {
+    document.title = `${title} / MovieSpot`;
+  });
 
-        document.title = `${title} / CineMate`
-      })
-    
-
-
-
-  return null
-}
+  return null;
+};
